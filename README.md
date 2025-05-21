@@ -49,9 +49,10 @@ Cornell University, College of Engineering | Bachelor of Science in Computer Sci
 ## 📫 Where to Find Me
 
 <div align="left">
-  <a href="mailto:cc2524@cornell.edu" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=cc2524@cornell.edu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
+
   <a href="https://www.linkedin.com/in/connie-chen-681041349/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
