@@ -2,6 +2,10 @@
 ### I'm Connie Chen. 
 Cornell University, College of Engineering | Bachelor of Science in Computer Science, Minor in Data Science (Expected 2026)
 
+I'm a Cornell graduate with hands-on experience across the machine learning pipeline, backend development, and data analytics — from building and fine-tuning ML models to designing scalable systems and turning complex data into clear, actionable insights for stakeholders. I've led cross-functional teams through Agile development, worked across the stack from data pipelines to APIs to dashboards, and enjoy translating technical work into outcomes that matter to the people using it.
+
+I'm currently exploring full-time opportunities in ML/AI engineering, data science, and backend development, and excited to bring that same blend of technical depth and clear communication to a new team.
+
 ## 🌱 About Me
 - 📚 Passionate about building and testing intelligent systems and programs that bridge code and real-world impact.
 
